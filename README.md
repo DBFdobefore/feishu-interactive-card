@@ -1,6 +1,7 @@
 # 飞书交互式卡片 2.0 输出规范
 
 让 AI Agent 在飞书中以漂亮的可折叠卡片发送长回复，而不是大段纯文本。
+<img width="670" height="1280" alt="mac_1785726353513" src="https://github.com/user-attachments/assets/0d387265-dfd2-4239-a976-f14cd78e0943" />
 
 ## 这是什么
 
